@@ -7,3 +7,4 @@ function add(x,y) {
 }
 console.log(add(1,2));
 console.log(data);
+document.write('123213s11')
